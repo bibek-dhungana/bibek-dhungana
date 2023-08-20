@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/nirajkharel/nirajkharel/main/niraj.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/bibek-dhungana/bibek-dhungana/blob/main/bibek.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bibek Dhungana</h1>
 <h3 align="center">Penetration Tester From Nepal</h3>
@@ -15,7 +15,7 @@
 
 - 🌟 Passionate about Red Team Research.
 
-- 📫 Reach me at **your_email@example.com**
+- 📫 Reach me at **dhunganabibek28@gmail.com**
 
 ## 🚀 Skills and Tools:
 
@@ -56,7 +56,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bibek-dhungana-b8862a165/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="mailto:your_email@example.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
+    <a href="mailto:dhunganabibek28@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 </p>
 
 ## ❤ Views and Followers
