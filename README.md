@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/bibek-dhungana/bibek-dhungana/blob/main/bibek.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bibek Dhungana</h1>
-<h3 align="center">Penetration Tester From Nepal</h3>
+<h3 align="center">Penetration Tester From Nepal 🇳🇵</h3>
 
 ![](https://komarev.com/ghpvc/?username=bibek-dhungana)
 
@@ -28,17 +28,6 @@
     <a href="https://portswigger.net/burp/"> <img src="https://img.icons8.com/ios-filled/50/000000/burp-suite.png" alt="burp" height="45" width="45"/></a>
 </p>
 
-<br/>
-
-
-
-
-
-<br/>
-<br/>
-
-
-<br/>
 <br/>
 
 ## Connect with Me:
