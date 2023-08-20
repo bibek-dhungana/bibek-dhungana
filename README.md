@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bibek Dhungana</h1>
 <h3 align="center">Penetration Tester From Nepal</h3>
 
-![](https://komarev.com/ghpvc/?username=bibekdhungana)
+![](https://komarev.com/ghpvc/?username=bibek-dhungana)
 
 ## 🙋‍♂️ About Me
 
@@ -31,23 +31,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/bibekdhungana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bibek Dhungana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekdhungana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/bibek-dhungana/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bibek Dhungana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-dhungana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 GitHub Stats
 
   <br/>
-    <a href="https://github.com/bibekdhungana/github-readme-stats"><img alt="Bibek Dhungana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bibekdhungana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/bibekdhungana/github-readme-stats"><img alt="Bibek Dhungana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekdhungana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/bibek-dhungana/github-readme-stats"><img alt="Bibek Dhungana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bibek-dhungana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/bibek-dhungana/github-readme-stats"><img alt="Bibek Dhungana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-dhungana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> The top languages metric represents languages in public code and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/bibekdhungana/github-readme-activity-graph"><img alt="Bibek Dhungana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bibekdhungana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/bibek-dhungana/github-readme-activity-graph"><img alt="Bibek Dhungana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bibek-dhungana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
