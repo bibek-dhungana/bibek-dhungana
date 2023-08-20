@@ -20,34 +20,23 @@
 ## 🚀 Skills and Tools:
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-    <img src="https://img.icons8.com/color/48/000000/programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bug.png"/>
-    <img src="https://img.icons8.com/color/48/000000/web.png"/>
-    <img src="https://img.icons8.com/color/48/000000/network.png"/>
-    <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+    <a href="https://kali.org/"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="45"/> </a>
+    <a href="https://https://github.com/OWASP/owasp-mstg"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="45" height="45"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://portswigger.net/burp/"> <img src="https://img.icons8.com/ios-filled/50/000000/burp-suite.png" alt="burp" height="45" width="45"/></a>
 </p>
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/bibek-dhungana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bibek Dhungana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-dhungana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## 📊 GitHub Stats
 
-  <br/>
-    <a href="https://github.com/bibek-dhungana/github-readme-stats"><img alt="Bibek Dhungana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bibek-dhungana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/bibek-dhungana/github-readme-stats"><img alt="Bibek Dhungana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-dhungana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> The top languages metric represents languages in public code and doesn't reflect experience or skill level.
+
 
 <br/>
 <br/>
 
-<a href="https://github.com/bibek-dhungana/github-readme-activity-graph"><img alt="Bibek Dhungana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bibek-dhungana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -58,10 +47,3 @@
     <a href="https://www.linkedin.com/in/bibek-dhungana-b8862a165/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="mailto:dhunganabibek28@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bibekdhungana">
-</a>
-<a href="https://github.com/bibekdhungana?tab=followers"><img src="https://img.shields.io/github/followers/bibekdhungana?label=Followers&style=social" alt="GitHub Badge"></a>
