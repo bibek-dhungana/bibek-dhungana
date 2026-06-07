@@ -9,11 +9,7 @@
 
 - 🔭 **Penetration Tester**
 
-- 🌱 Currently working as a Security Analyst at Cryptogen Nepal.
-
-- 👨‍💻 Specializing in Web, Network, and API Penetration Testing.
-
-- 🌟 Passionate about Red Team Research.
+- 🌱 Currently working as a Offensive Security Consultant at StickmanCyber.
 
 - 📫 Reach me at **dhunganabibek28@gmail.com**
 
